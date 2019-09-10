@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{D7046052-AD0E-CA50-09C7-6E075CBD5D84}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TurnBased/BattleStateMachine.cs">
+    <Files>
+      <File FileName="Assets/Scripts/TurnBased/BattleStateMachine.cs" Line="184" Column="38" />
+      <File FileName="Assets/Scripts/TurnBased/PlayerCharacterStateMachine.cs" Line="82" Column="51" />
+      <File FileName="Assets/Scripts/TurnBased/NPCStateMachine.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TurnBased/TurnHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TurnBased/NPC_ButtonSelect.cs" Line="13" Column="1" />
+      <File FileName="Assets/Scripts/TurnBased/BaseNPC.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mobileBuildTest" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="TurnBased" expanded="True">
+                  <Node name="BattleStateMachine.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="mobileBuildTest" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b51b9cb4-0620-4336-9b6c-7ac079a6f99b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
