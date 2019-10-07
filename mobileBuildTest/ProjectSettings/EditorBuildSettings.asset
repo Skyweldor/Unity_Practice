@@ -5,10 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Main.unity
     guid: 23203d52fcae84949a0ef84a04c62222
   - enabled: 1
     path: Assets/Scenes/TurnBased_Example.unity
     guid: ac58699c3677d4b238b8b1615e7f373c
+  - enabled: 1
+    path: Assets/Scenes/baseCamp.unity
+    guid: 9b84d43b4565e9a4b9a3824f2e1e6998
   m_configObjects: {}
